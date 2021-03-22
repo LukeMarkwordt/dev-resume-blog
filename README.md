@@ -1,20 +1,3 @@
 # dev-resume-blog
 
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0eb75106-cfe6-4d76-b13f-9842310811ba/deploy-status)](https://app.netlify.com/sites/awesome-lovelace-c3cce8/deploys)
